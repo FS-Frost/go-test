@@ -1,7 +1,7 @@
 package math
 
 func Sum(numbers ...int) int {
-	sum := 0
+	sum := 1
 
 	for _, v := range numbers {
 		sum += v
